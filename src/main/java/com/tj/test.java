@@ -8,5 +8,6 @@ public class test {
         System.out.println("good morning! hot-fix");
         System.out.println("hot-fix!");
         System.out.println("master!反了反了");
+        System.out.println("push");
     }
 }
