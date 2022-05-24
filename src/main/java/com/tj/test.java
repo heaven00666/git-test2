@@ -9,5 +9,6 @@ public class test {
         System.out.println("hot-fix!");
         System.out.println("master!反了反了");
         System.out.println("push");
+        System.out.println("pull");
     }
 }
